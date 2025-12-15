@@ -3,7 +3,7 @@ Author: Dipl. Ing. Marvie Demit
 ---
 
 
-'''# The EU AI Act: A Master Implementation Guide
+# The EU AI Act: A Master Implementation Guide
 
 **A Comprehensive, Step-by-Step Framework for Compliance**
 
@@ -71,11 +71,6 @@ Each of the 30 activities in this guide is presented as a standalone module with
     *   [GPAI Activity 5: Appoint an EU Representative](#gpai-activity-5-appoint-an-eu-representative)
     *   [GPAI Activity 6: Register the GPAI Model](#gpai-activity-6-register-the-gpai-model)
     *   [GPAI Activity 7: Cooperate with Authorities](#gpai-activity-7-cooperate-with-authorities)
-
-'''
-
-
-
 
 
 
