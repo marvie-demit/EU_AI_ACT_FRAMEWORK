@@ -167,5 +167,5 @@ Foundation models, LLMs:
 For detailed guidance on completing each template, refer to the corresponding activity guide in the **EU AI Act Master Implementation Guide**.
 
 
-**Last Updated:** December 2025
+**Last Updated:** December 2024  
 **Version:** 1.0

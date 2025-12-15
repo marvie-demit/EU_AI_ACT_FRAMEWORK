@@ -205,5 +205,7 @@ Author: Dipl. Ing. Marvie Demit
 - 📄 = Standalone Template (ready to customize and use)
 
 
+**Last Updated:** December 2025  
+
 **Last Updated:** December 2025 
 **Version:** 2.0
