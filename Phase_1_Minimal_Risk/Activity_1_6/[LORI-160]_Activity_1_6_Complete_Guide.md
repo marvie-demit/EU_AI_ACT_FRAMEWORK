@@ -91,5 +91,4 @@ Code of Conduct is living document. Review annually. Use as foundation for Limit
 ---
 
 **Document Version:** 2.0  
-**Last Updated:** December 2024  
-**Next Review Date:** December 2025
+**Last Updated:** December 2025

@@ -104,5 +104,4 @@ Based on classification results: (1) If High-Risk systems: Proceed to Phase 3 (A
 ---
 
 **Document Version:** 2.0  
-**Last Updated:** December 2024  
-**Next Review Date:** December 2025
+**Last Updated:** December 2025

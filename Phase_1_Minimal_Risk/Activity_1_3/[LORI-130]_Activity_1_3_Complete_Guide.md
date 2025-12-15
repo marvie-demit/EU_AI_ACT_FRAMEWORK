@@ -240,5 +240,4 @@ Upon completion:
 ---
 
 **Document Version:** 2.0  
-**Last Updated:** December 2024  
-**Next Review Date:** Quarterly (inventory is living document)
+**Last Updated:** December 2025

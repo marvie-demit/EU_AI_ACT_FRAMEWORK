@@ -131,5 +131,4 @@ Proceed to Activity 1.5: Classify All Inventoried Systems using the procedure de
 ---
 
 **Document Version:** 2.0  
-**Last Updated:** December 2024  
-**Next Review Date:** December 2025
+**Last Updated:** December 2025

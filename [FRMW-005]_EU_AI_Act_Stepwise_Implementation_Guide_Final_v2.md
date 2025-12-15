@@ -4,9 +4,6 @@ Author: Dipl. Ing. Marvie Demit
 
 # A Consolidated Stepwise Implementation Guide for EU AI Act Compliance (Final Version)
 
-**Author:** Manus AI
-**Date:** November 20, 2025
-
 ## 1. Introduction
 
 The European Union's Artificial Intelligence (AI) Act is a landmark regulatory framework establishing a global benchmark for AI governance. This guide presents a consolidated, structured, and stepwise implementation model for achieving compliance. Inspired by the phased approach of the World Health Organization's Laboratory Quality Stepwise Implementation (LQSI) framework [1], this guide provides a clear and actionable roadmap for organizations.

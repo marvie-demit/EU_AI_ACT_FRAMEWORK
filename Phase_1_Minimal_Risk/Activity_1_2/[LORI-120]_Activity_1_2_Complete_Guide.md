@@ -647,5 +647,4 @@ The inventory procedure developed in this activity will be used immediately in A
 ---
 
 **Document Version:** 2.0  
-**Last Updated:** December 2024  
-**Next Review Date:** December 2025
+**Last Updated:** December 2025

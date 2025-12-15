@@ -327,5 +327,4 @@ Upon successful completion of this activity, organizations should:
 ---
 
 **Document Version:** 2.0  
-**Last Updated:** December 2024  
-**Next Review Date:** December 2025
+**Last Updated:** December 2025 

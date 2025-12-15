@@ -542,5 +542,4 @@ Both procedures should be reviewed and approved by the newly established AI Gove
 ---
 
 **Document Version:** 2.0  
-**Last Updated:** December 2024  
-**Next Review Date:** June 2025
+**Last Updated:** December 2025
