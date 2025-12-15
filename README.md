@@ -278,7 +278,7 @@ For questions about specific activities or templates:
 ---
 
 **Framework Version:** 2.0  
-**Last Updated:** December 2024  
+**Last Updated:** December 2025  
 **Total Documents:** 118 (83 templates + 30 guides + 5 master documents)  
 **Author:** Dipl. Ing. Marvie Demit
 
