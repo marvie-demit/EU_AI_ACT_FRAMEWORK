@@ -53,7 +53,7 @@ Comprehensive implementation guides for each activity containing:
 - **Related Templates** - References to supporting templates (no embedded duplication)
 - **Next Steps** - Clear guidance on what to do after completion
 
-**Note:** Templates are NOT embedded in activity guides. They are provided as separate, reusable documents.
+**Note:** Templates are NOT ONLY embedded in activity guides. They are provided as separate, reusable documents.
 
 ### **📋 Templates (83 total)**
 Production-ready documents including policies, procedures, forms, checklists, and registers. Each template is:
