@@ -16,7 +16,7 @@ graph TD
     B -->|No| D{Step 2: Check for High-Risk Categories Art. 6 & Annex III};
     D -->|Yes| E{Poses significant risk to health, safety, or rights?};
     E -->|Yes| F[Result: HIGH-RISK];
-    E -->|No| G[Result: MINIMAL RISK (Exempted High-Risk)];
+    E -->|No| G[Result: MINIMAL RISK - Exempted High-Risk];
     D -->|No| H{Step 3: Check for Limited Risk Art. 52};
     H -->|Yes| I[Result: LIMITED RISK];
     H -->|No| J[Step 4: Default to Minimal Risk];
@@ -35,8 +35,8 @@ graph TD
     end
 
     subgraph Step_3_Criteria
-        H1[Interacts with humans (chatbot)?]
-        H2[Generates content (deepfake)?]
-        H3[Infers emotions/biometric categorization?]
+        H1[Interacts with humans - chatbot?]
+        H2[Generates content - deepfake?]
+        H3[Infers emotions / biometric categorization?]
     end
 ```
